@@ -1,13 +1,11 @@
 package xnopre.tdd.skeleton;
 
+import org.junit.Test;
+
 import static org.fest.assertions.Assertions.assertThat;
 import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
-
-import org.fest.assertions.Assertions;
-import org.junit.Test;
-import org.mockito.Mockito;
 
 public class MyProviderTest {
 
